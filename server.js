@@ -7,8 +7,8 @@ const port = process.env.PORT || 3000;
 
 const allowedOrigins = [
   'http://localhost:5173', // Vite dev local
-  'https://https://starter-project-express-ai-frontend.vercel.app/', // Preview URL Vercel
-  'starter-project-express-ai-git-64bf51-msyafiulmasruris-projects.vercel.app', // URL Vercel kamu
+  'https://starter-project-express-ai-frontend.vercel.app/', // Preview URL Vercel
+  'https://starter-project-express-ai-git-64bf51-msyafiulmasruris-projects.vercel.app', // URL Vercel kamu
   'https://starter-project-express-ai-frontend-o47fh28mn.vercel.app', // Preview URL Vercel
 ];
 
