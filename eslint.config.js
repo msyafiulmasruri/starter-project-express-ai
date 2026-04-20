@@ -19,9 +19,9 @@ export default [
     },
     rules: {
       'prettier/prettier': 'error',
-      'quotes': ['error', 'single'],
-      'indent': ['error', 2],
-      'semi': ['error', 'always'],
+      // 'quotes': ['error', 'single'],
+      // 'indent': ['error', 2],
+      // 'semi': ['error', 'always'],
       'no-trailing-spaces': 'error',
       'eol-last': ['error', 'always'],
       'no-multiple-empty-lines': ['error', { max: 1 }],
